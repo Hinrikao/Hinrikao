@@ -1,4 +1,4 @@
-## Oiii eu sou o Hinrikao, criador de conteúdo de programação e tecnologia!
+## Oiii eu sou o Hinrikao!
 <div align="center">
   <a href="https://github.com/Hinrikao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hinrikao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
