@@ -3,17 +3,6 @@
   <a href="https://github.com/Hinrikao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hinrikao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hinrikao&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Hinrikao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Hinrikao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Hinrikao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Hinrikao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Hinrikao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Hinrikao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Hinrikao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Hinrikao-pic" height="150" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/1010223313664098390/1034554469519732787/png-transparent-emoticon-line-management-robot-group-telegram-engineering-2018-internet-bot.png">
-</div>
   
   ##
  
